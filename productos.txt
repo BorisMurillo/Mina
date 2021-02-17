@@ -1,0 +1,42 @@
+000;galleta festival;1000.0;mecato
+001;manimoto;1200.0;mecato
+002;papas margarita;1200.0;mecato
+003;club social;700.0;mecato
+004;bianchi;800.0;mecato
+005;chocoso;1500.0;mecato
+006;cocosete;1500.0;mecato
+007;gol;1200.0;mecato
+008;ponque gala;1800.0;mecato
+009;chocomelos;700.0;mecato
+010;minichips;1200.0;mecato
+011;brownny;600.0;mecato
+012;nucita;500.0;mecato
+013;bom bom bum;400.0;mecato
+014;super coco;400.0;mecato
+100;maxi personal;1500.0;mecato
+101;1/5 pepsi;800.0;mecato
+102;1/4 pepsi;1000.0;mecato
+103;1/3 pepsi;1350.0;mecato
+104;1/2 pepsi;2000.0;mecato
+105;pepsi;4000.0;mecato
+106;pony malta;3000.0;mecato
+107;squash;2000.0;mecato
+108;agua;1200.0;mecato
+109;maxi manzana 1,7;3000.0;mecato
+110;yogurt;1200.0;mecato
+200;mechera;1000.0;mecato
+201;cigarrillo Denver;3500.0;mecato
+202;cigarrillo;3000.0;mecato
+203;panela grande;2200.0;mama
+204;hielo;300.0;mama
+205;prestobarba;2700.0;mama
+206;fab;5500.0;mama
+207;crema fortident;2200.0;mama
+208;papel;1000.0;mama
+209;jabón palmolive;2500.0;mama
+210;cepillo dientes;2500.0;mama
+211;jabon barra puro;1500.0;mama
+212;desodorante;1000.0;mama
+213;arepas;1500.0;mama
+214;frutiño;700.0;mama
+
