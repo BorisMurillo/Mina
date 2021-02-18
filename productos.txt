@@ -39,4 +39,5 @@
 212;desodorante;1000.0;mama
 213;arepas;1500.0;mama
 214;frutiño;700.0;mama
+335; fruta; 600 ; mama
 
